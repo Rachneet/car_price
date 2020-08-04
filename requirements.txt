@@ -65,7 +65,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 dgl==0.2
 distributed==2.2.0
-Django==2.2.1
+Django==2.2.13
 django-ckeditor==5.3.0
 django-js-asset==1.2.2
 docker==4.2.2
